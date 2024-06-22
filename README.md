@@ -9,7 +9,7 @@
 - The current status and progress of the game are implemented in conjunction with custom hardware.
 
 ## Description video
-YouTube Video Link: 
+YouTube Video Link: https://www.youtube.com/watch?v=8zeRlxORuMQ
 
 ## License
 **IMP Memory Card Game** is based on Goh KaHian's "Match-Pairs-Memory-Game-With-Animation" distributed under the MIT license. A revised version of the **IMP Memory Card Game** will also be released under the MIT license under the original terms.
